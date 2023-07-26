@@ -1,0 +1,8 @@
+main: fr.will33.seriedevplugin.SerieDevPlugin
+name: SerieDevPlugin
+version: ${project.version}
+api-version: "1.20"
+author: Will33_
+website: "https://www.elesia.org"
+description: "Plugin développé en direct sur la chaine de Will33_"
+
